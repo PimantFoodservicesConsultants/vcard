@@ -1,2 +1,14 @@
 README.md
 # vCard PIMANT
+BEGIN:VCARD
+VERSION:4.0
+N:Manternach;Pierre;;;
+FN:Pierre Manternach
+ORG:PIMANT
+TITLE:Directeur de projet - BET Cuisine
+TEL;TYPE=cell,voice;VALUE=uri:tel:+33689894580
+EMAIL;TYPE=internet:pm@pimant.fr
+URL;TYPE=work:https://www.pimant.fr
+ADR;TYPE=work:;;129 rue Servient;Lyon;;69003;France
+NOTE:Bureau d’études cuisine – Restauration commerciale et hôtelière
+END:VCARD
